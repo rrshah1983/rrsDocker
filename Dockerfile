@@ -24,6 +24,5 @@ COPY index.html /var/www/html
 
 
 EXPOSE 80
-CMD service apache2 start
 
 
